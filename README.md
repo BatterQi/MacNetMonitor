@@ -22,8 +22,7 @@ A lightweight macOS menu bar application that displays real-time **download** an
 
 ## 🚀 Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/network-speed-monitor.git
-   cd network-speed-monitor
-2. Download and Run NetMonitor.zip
+1. install two package for support run this app
+   pip3 install rumps, psutil
+   
+3. Download and Run NetMonitor.zip
