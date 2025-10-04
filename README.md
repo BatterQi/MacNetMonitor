@@ -26,3 +26,4 @@ A lightweight macOS menu bar application that displays real-time **download** an
    ```bash
    git clone https://github.com/yourusername/network-speed-monitor.git
    cd network-speed-monitor
+2. Download and Run NetMonitor.zip
