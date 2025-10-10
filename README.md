@@ -22,7 +22,6 @@ A lightweight macOS menu bar application that displays real-time **download** an
 
 ## 🚀 Installation
 
-1. install two package for support run this app
-   pip3 install rumps, psutil
    
-3. Download and Run NetMonitor.zip
+1. Download and Run NetMonitor.zip
+2. Go to setting and choose Open anyway to running this for first time
